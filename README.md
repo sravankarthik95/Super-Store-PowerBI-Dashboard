@@ -1,5 +1,6 @@
 # Super-Store-PowerBI-Dashboard
-Interactive Power BI dashboard for sales analysis and forecasting
+Interactive Power BI dashboard for sales analysis and forecasting  ⭐ This project demonstrates end-to-end Power BI dashboard development with forecasting.
+
 
 # 📊 Super Store Sales Dashboard | Power BI
 
